@@ -1,0 +1,17 @@
+.category:hover{
+    background: white;
+    transition: background 5s; 
+}
+
+.mini-title{
+    font-family: 'Parisienne', cursive;
+    font-size: 30px;
+}
+
+.card-name{
+    font-family: 'PT Serif', serif;
+}
+
+.btn-style{
+    font-family: 'PT Serif', serif;
+}

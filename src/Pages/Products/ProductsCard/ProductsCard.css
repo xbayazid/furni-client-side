@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+.products-details{
+    font-family: 'Comfortaa', cursive;
+}
+
+.product-title{
+    font-family: 'PT Serif', serif;
+}
+
+.products-btn{
+    font-family: 'Comfortaa', serif;
+    border: 2px solid;
+}
+
+.products-btn:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    cursor: pointer;
+}

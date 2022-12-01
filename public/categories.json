@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "name": "LIVING ROOM",
+    "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
+    "total": 6
+    },
+    {
+    "id": 2,
+    "name": "BEDROOM",
+    "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+    "total": 6
+    },
+    {
+    "id": 4,
+    "name": "KITCHEN",
+    "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+    "total": 6
+    }
+    ]

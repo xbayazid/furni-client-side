@@ -1,0 +1,33 @@
+.contact-title{
+    font-family: "EB Garamond",serif;
+    font-size: 18px;
+    color: #8b8b8b;
+}
+
+.contact-qna{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 29px;
+    line-height: 1.55em;
+    letter-spacing: .2em;
+    color: black;
+}
+
+.office{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 16px;
+    letter-spacing: .12em;
+    line-height: 1.5em;
+    color: black;
+}
+
+.address{
+    color: #8b8b8b;
+    margin: 10px 0;
+    line-height: 1.8rem;
+}
+
+.social{
+    color: #8b8b8b;
+    margin-top: 10px;
+    /* font-size: ; */
+}

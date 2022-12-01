@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.title-inspire{
+    font-family: 'Sacramento', cursive;
+    margin-left: -35%;
+}
+
+.semi-title{
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: -35%;
+}
+
+.imgOne{
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.imgTwo{
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.inspiration-btn{
+    border: 1px solid white;
+    font-family: 'PT Serif', serif;
+}
+
+.details{
+    font-family: 'PT Serif', serif;
+}
